@@ -4,9 +4,6 @@ Startups have never been this easy.
 
 Find us on [juq.io](https://juq.io)
 
-- [juq.io](#juqio)
-  - [Getting started](#getting-started)
-
 ## Getting started
 
 * First, ensure that node.js & npm are both installed. If not, choose your OS and installation method from [this page](https://nodejs.org/en/download/package-manager/) and follow the instructions.
